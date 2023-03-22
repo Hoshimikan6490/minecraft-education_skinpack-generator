@@ -27,15 +27,15 @@
 ***
 # このアプリケーションの使い方
 1. 「public」フォルダ内の「settings.json」というファイルをメモ帳などで開く
-　　```json
+```json
     {
         "skinpack_name_en": "skinpack",
         "skinpack_name_en": "skinpack",
         "skinpack_name_ja": "スキンパック",
         "slim_skin": false
     }
-    ```
-    - 「skinpack_name_en」は、英語のスキンパック名です。(変えてもあまり変わりません)
+```
+- 「skinpack_name_en」は、英語のスキンパック名です。(変えてもあまり変わりません)
 - 「skinpack_name_ja」は、日本語でのスキンパック名(好きな文字に変えてください。ただし、バグ防止のため、記号は使用しないことをお勧めします)
 - 「slim_skin」は、スリムスキン(「アレックススキン」ともいう)を使用するかどうかを設定します。(falseは、通常スキン。trueは、スリムスキン。)
 

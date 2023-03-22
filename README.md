@@ -26,7 +26,8 @@
 
 ***
 # このアプリケーションの使い方
-1. 「public」フォルダ内の「settings.json」というファイルをメモ帳などで開く
+1. 「public」フォルダ内の、「images」フォルダと「temp」フォルダ内の「you_need_to_remove_this_file」というファイルを削除する。
+2. 「public」フォルダ内の「settings.json」というファイルをメモ帳などで開く
 ```json
     {
         "skinpack_name_en": "skinpack",
@@ -39,6 +40,6 @@
 - 「skinpack_name_ja」は、日本語でのスキンパック名(好きな文字に変えてください。ただし、バグ防止のため、記号は使用しないことをお勧めします)
 - 「slim_skin」は、スリムスキン(「アレックススキン」ともいう)を使用するかどうかを設定します。(falseは、通常スキン。trueは、スリムスキン。)
 
-2. 「public」フォルダ内の「images」フォルダに、使用したいスキンの画像ファイルを入れる。
-3. 「skinpack_generator.exe」を起動する。
-4. 生成された「skinpack.mcpack」を開く。
+3. 「public」フォルダ内の「images」フォルダに、使用したいスキンの画像ファイルを入れる。
+4. 「skinpack_generator.exe」を起動する。
+5. 生成された「skinpack.mcpack」を開く。

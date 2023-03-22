@@ -31,7 +31,6 @@
 ```json
     {
         "skinpack_name_en": "skinpack",
-        "skinpack_name_en": "skinpack",
         "skinpack_name_ja": "スキンパック",
         "slim_skin": false
     }

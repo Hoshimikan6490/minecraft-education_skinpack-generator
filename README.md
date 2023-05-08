@@ -1,6 +1,7 @@
 # このアプリケーションについて
 ## 【このアプリケーションの概要】
 このアプリケーションは、教育版マインクラフトのスキンパックを簡単に作成できるようにするために作成されました。
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/Hoshimikan6490/minecraft-education_skinpack-generator/v1.1.2/total?color=498205&label=%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E6%95%B0&style=for-the-badge)
 
 ## 【権利等に関して】
 このアプリケーションの著作権は、Hoshimikan6490(作者に関しては、別項目を参照してください)です。
